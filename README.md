@@ -4,8 +4,8 @@ Yup, thats all
 
 Post your suggestions in the Issues section, use this format
 
-[Issue/Suggestion] Your suggestion tittle
+[Issue/Suggestion] Your suggestion/issue tittle
 
 Please DON'T suggest changes in the spanish translation.
 
-The project is still not downloadable anywhere and its on very early development. Be patient.
+The actual version is an PinDev(Pre In Development) release. May (or will) contain bugs and its very uncompleted.
