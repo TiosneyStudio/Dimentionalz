@@ -10,6 +10,15 @@ A & D: Movement
 
 Left Click: Destroy block
 
+Minimum requirements:
+
+Computer Data Storage: 500 GB
+
+RAM: 4GB
+
+Processor: Intel Core i3
+
+
 Post your suggestions in the Issues section, use this format
 
 [Issue/Suggestion] Your suggestion/issue tittle
