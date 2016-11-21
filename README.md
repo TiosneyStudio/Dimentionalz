@@ -3,9 +3,11 @@ A tile-based 2D survival game
 Yup, thats all
 
 Controls:
-F11: Fullscreen
+
 W: Jump
+
 A & D: Movement
+
 Left Click: Destroy block
 
 Post your suggestions in the Issues section, use this format
