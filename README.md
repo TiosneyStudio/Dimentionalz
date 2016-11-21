@@ -16,7 +16,7 @@ Computer Data Storage: 500 GB
 
 RAM: 4GB
 
-Processor: Intel Core i3
+Processor: Intel Core i3 3.30 GHz
 
 
 Post your suggestions in the Issues section, use this format
