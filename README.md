@@ -26,3 +26,5 @@ Post your suggestions in the Issues section, use this format
 Please DON'T suggest changes in the spanish translation.
 
 The actual version is an PinDev(Pre In Development) release. May (or will) contain bugs and its very uncompleted.
+
+Use those files to suggest translations, i recommend usin the spanish translations as the base for your ones.
