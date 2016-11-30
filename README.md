@@ -10,6 +10,10 @@ A & D: Movement
 
 Left Click: Destroy block
 
+Right Click: Place block
+
+Mouse Wheel: Use hotbar
+
 Minimum requirements:
 
 Computer Data Storage: 500 GB
